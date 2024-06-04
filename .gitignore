@@ -1,0 +1,4 @@
+node_modules
+src/env.ts
+.clasp.json
+.DS_Store
